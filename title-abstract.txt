@@ -1,5 +1,16 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Explaining Image Captioning Models Through Attention Maps, Image
+Perturbations, and Object Importance Maps>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<Image captioning models are complex because they
+work on object detection as well as caption generation.
+When these models fail it is hard to understand where
+and why they fail. To explain how an image captioning
+model works, we use attention maps to visualize the
+relationships between generated words and objects in
+an image. Moreover, we utilize an image perturbation
+model to alter regions of images to see how the cap-
+tions change and to test the robustness of our model
+by measuring the similarity between captions gener-
+ated before and after the altering of the image.>
